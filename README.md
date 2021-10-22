@@ -2,7 +2,7 @@
 - 👀 I’m interested in node.js, react
 - 🌱 I’m currently learning crypto and web3 
 - 💞️ I’m looking to collaborate on block-chain project
-- 📫 How to reach me 
+- 📫 How to reach me https://twitter.com/_____null_
 
 <!---
 0x-null/0x-null is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
